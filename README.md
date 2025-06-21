@@ -1,16 +1,36 @@
-## Hi there 👋
+```
+USER:        myzstral
+TYPE:        programmer // gamer
+PRONOUNS:    he/him
+LOCATION:    archlinux@thinkpad
+```
 
-<!--
-**myzstral/myzstral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+SYSTEM
+────────────────────────────────────
+editor:      vscode
+shell:       zsh
+os:          arch linux
+cpu:         intel i5-4300M
+graphics:    hd 4600 (integrated)
+device:      lenovo thinkpad (2014)
+languages:   javascript · java · rust
+```
 
-Here are some ideas to get you started:
+```
+PHILOSOPHY
+────────────────────────────────────
+all code is war.
+silence is speed.
+clean is faster than clever.
+visibility is a weakness.
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+CONTACT
+────────────────────────────────────
+discord:     @myzstral
+github:      myzstral
+reddit:      u/myzstral
+other:       [REDACTED]
+```
