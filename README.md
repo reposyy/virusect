@@ -1,5 +1,5 @@
 ```
-USER:        volatilesys
+USER:        volatile.sys
 TYPE:        programmer // gamer
 PRONOUNS:    he/him
 LOCATION:    archlinux@thinkpad
