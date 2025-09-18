@@ -1,5 +1,5 @@
 ```
-USER:        myzstral
+USER:        volatilesys
 TYPE:        programmer // gamer
 PRONOUNS:    he/him
 LOCATION:    archlinux@thinkpad
