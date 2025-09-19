@@ -1,5 +1,5 @@
 ```
-USER:        reposy
+USER:        repochet
 TYPE:        programmer // gamer
 PRONOUNS:    he/him
 LOCATION:    archlinux@thinkpad
