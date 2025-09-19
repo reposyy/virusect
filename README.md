@@ -1,5 +1,5 @@
 ```
-USER:        virusect
+USER:        reposy
 TYPE:        programmer // gamer
 PRONOUNS:    he/him
 LOCATION:    archlinux@thinkpad
